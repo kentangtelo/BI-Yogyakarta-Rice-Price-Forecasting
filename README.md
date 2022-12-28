@@ -7,3 +7,4 @@
 
 
 # Dashboard
+<kbd>![alt text](https://github.com/kentangtelo/BI-Yogyakarta-Rice-Price-Forecasting/blob/master/Picture/dashboard.jpg?raw=true)</kbd>
