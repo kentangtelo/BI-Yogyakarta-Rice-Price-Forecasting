@@ -5,6 +5,5 @@
 2. Prophet handle date column
 3. Prophet has more feature that give u more insight
 
-## Alert !!! The dashboard that we made use indonesian languange
 
 # Dashboard
