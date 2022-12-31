@@ -2,6 +2,10 @@
 
 # Yogyakarta Rice Price Forecast with Prophet
 
+### Team
+1. M. Raehan Parikesit
+2. Iman Abdurrahman
+
 ### Reason use prophet:
 1. I dont want to code LSTM lol
 2. Prophet handle date column
